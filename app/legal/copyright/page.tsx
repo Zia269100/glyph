@@ -1,4 +1,4 @@
-export default function CopyrightPage() {
+export default function Page() {
   return (
     <div style={{ padding: "20px" }}>
       <h1>Copyright</h1>
