@@ -1,12 +1,7 @@
-export default function CopyRight) {
+export default function Copyright() {
   return (
-    <div style={{ padding: "20px" }}>
-      <h1>Copyright</h1>
-      <p>© 2026 Mohammed Zia. All rights reserved.</p>
-      <p>
-        This project (Glyph) is a prototype for emergency medical identification
-        using NFC technology.
-      </p>
+    <div className="p-4">
+      <h1 className="text-xl font-bold">Copyright</h1>
+      <p>© 2026 Glyph. All rights reserved.</p>
     </div>
   );
-}
