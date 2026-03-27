@@ -1,7 +1,7 @@
 export const profile = {
   id: "GLYPH-MH-002847",
-  name: "Arjun Mehta",
-  age: 34,
+  name: "Siddiqui Hamza",
+  age: 20,
   gender: "Male",
   location: "Mumbai, MH",
   blood: "B+",
